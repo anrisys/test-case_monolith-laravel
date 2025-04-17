@@ -18,9 +18,9 @@ A complete item management system built with Laravel (backend) and modern Vue/Vi
 
 ### Backend
 
-- 🏗️ Laravel 12+ RESTful API
+- 🏗️ Laravel 12+
 - 🔐 Authentication
-- 🗄️ Eloquent ORM with MySQL
+- 🗄️ Eloquent ORM with PostgreSQL
 - ✅ Request validation
 - 📦 CRUD Items
 
@@ -81,6 +81,7 @@ A complete item management system built with Laravel (backend) and modern Vue/Vi
     ```
 
     - Make sure the database already created
+    - You can use the database you want. Make sure to use the correct driver.
 
 ## Running the application
 
